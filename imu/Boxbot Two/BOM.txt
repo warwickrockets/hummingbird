@@ -1,0 +1,54 @@
+Partlist exported from F:/Warwick Spaceflight/Projects/Hummingbird/Github/hummingbird/imu/Boxbot Two/sensors.sch at 14/06/2015 19:09:03
+
+Part          Value         Device          Package                Description                                                     MF MPN     OC_FARNELL OC_NEWARK
+BARO          MPL3115A2LGA8 MPL3115A2LGA8   LGA8                   Altimeter/Pressure Sensor, I2C, 1.95V-3.6V supply, 50 to 110kPa                                
+C1            0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C2            10            C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+C3            0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C4            10            C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+C5            0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C6            0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C7            0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C8            0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C9            10            C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+C10           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C11           10            C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+C12           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C13           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C14           10            C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+C15           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C17           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C18           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C19           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C20           4.7           C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+C21           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C22           1             C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+C23           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C24           0.1           C-USC0603       C0603                  CAPACITOR, American symbol                                                                     
+C26           100           C-USC0805       C0805                  CAPACITOR, American symbol                                                                     
+FRAM256K                    FRAM_SOIC8_I2C  SOIC8_208MIL           I2C FRAM - SOIC8 Package                                                                       
+GPSPINS                     MA04-1          MA04-1                 PIN HEADER                                                                 unknown    unknown  
+GYRO          FXAS21000     FXAS21000       QFN24_0P5_4X4_ASYM_EXP Xtrinsic FXAS21000 3-Axis Rate Digital Gyroscope                                               
+HIGHG         ADXL375       ADXL345         LGA14                  3-Axis, ±2 g/±4 g/±8 g/±16 g Digital Accelerometer                                             
+IC1           REG1117       REG1117         SOT223                 800mA and 1A Low Dropout (LDO) Positive Regulator                  REG1117 1097566    14P6981  
+LED1          GM1WA55311A   GM1WA55311A     GM1WA55311A            Chip LED RGB                                                                                   
+LOWG          ADXL345       ADXL345         LGA14                  3-Axis, ±2 g/±4 g/±8 g/±16 g Digital Accelerometer                                             
+MAG           FXOS870CQ     FXOS870CQ       QFN16_0P5_3X3                                                                                                         
+R1            50            R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+R2            50            R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+R3            68            R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+R4            5.6           R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+R5            5.6           R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+R8            100k          R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+R9            100k          R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+R13           10k           R-US_R0805      R0805                  RESISTOR, American symbol                                                                      
+RN1           CTS742C083    CTS742C083      CTS742C083             Chip Resistor Array 4 Single Resistor                                      unknown    unknown  
+RN2           2k2           2R-NEXBV4V      EXBV4V                 Array Chip Resistor                                                        unknown    unknown  
+TEENSY6-12                  FE07-1          FE07                   FEMALE HEADER                                                              unknown    unknown  
+TEENSY13-19                 FE07-1          FE07                   FEMALE HEADER                                                              unknown    unknown  
+TEENSY20-VBAT               FE07-1          FE07                   FEMALE HEADER                                                              unknown    unknown  
+TEENSYGND-5                 FE07-1          FE07                   FEMALE HEADER                                                              unknown    unknown  
+U$1           SD-503182-003 SD-503182-003   SD-503182-003          Molex micro SD card connector normal mount                                                     
+U$2           RFM69HW       RFM69HW         RFM                                                                                                                   
+X1            BU-SMA-H      BU-SMA-H        BU-SMA-H               FEMALE SMA CONNECTOR                                                       unknown    unknown  
+X2                          CON_JST_PH_2PIN JSTPH2                 JST 2-Pin Right-Angle Connector                                                                
